@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import classes from "./style.css";
 
-export default function ReactCustomSlider({ images, sliderBg = "#000000", paginationBg = "#000000"}) {
+export default function ReactImagesCarousel({ images, sliderBg = "#000000", paginationBg = "#000000"}) {
     const [x, setX] = useState(0);
     const [activeCount, setActiveCount] = useState(0);
 
