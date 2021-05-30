@@ -1,0 +1,49 @@
+{
+  "name": "react-images-carousel",
+  "version": "1.0.0",
+  "description": "Responsive, Lite & Mobile first React Images Carousel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpitmittaldev/react-images-carousel.git"
+  },
+  "keywords": [
+    "React-image-slider",
+    "Slider",
+    "React-images-carousel",
+    "Images",
+    "ImageCarousel",
+    "ReactSlideshow",
+    "ImageSlider",
+    "Slideshow",
+    "react",
+    "carousel",
+    "React image slider",
+    "React images carousel",
+    "react-component",
+    "react-carousel",
+    "react-slideshow",
+    "react-gallery",
+    "react carousel",
+    "react slideshow",
+    "react gallery",
+    "image gallery",
+    "image slider",
+    "gallery",
+    "image-gallery",
+    "swipe"
+  ],
+  "author": "ArpitMittal.in",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpitmittaldev/react-images-carousel/issues"
+  },
+  "homepage": "https://github.com/arpitmittaldev/react-images-carousel#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
